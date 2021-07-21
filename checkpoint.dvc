@@ -1,0 +1,4 @@
+outs:
+- md5: 5edf2f18806c48586a7e6e3ab6d118ba
+  size: 77
+  path: checkpoint
