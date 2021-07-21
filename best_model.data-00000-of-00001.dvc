@@ -1,4 +1,4 @@
 outs:
-- md5: 2331a05b68b7d711d0654531e21f44fd
+- md5: de38c1958cf2a0d2daa43b1576216154
   size: 2791209
   path: best_model.data-00000-of-00001
